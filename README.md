@@ -1,0 +1,1 @@
+# solarRadiationVisualizer1
